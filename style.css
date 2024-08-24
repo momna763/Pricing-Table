@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e2dddd;
+}
+
+.pricing-table {
+    text-align: center;
+    margin: 50px auto;
+    margin-top: 200px;
+}
+
+.plan {
+    display: inline-block;
+    width: 200px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    vertical-align: top;
+    height: 250px;
+}
+
+.basic {
+    border-top: 30px solid #28a745;
+}
+
+.standard {
+    border-top: 30px solid #007bff;
+}
+
+.premium {
+    border-top: 30px solid #fd7e14;
+}
+
+
